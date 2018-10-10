@@ -1,0 +1,14 @@
+/* ttf不支持, woff 可以 */
+/* @font-face {
+  font-family: 'MyFont';
+  src: url('./font/IndieFlower.woff') format('woff'),
+    url('./font/IndieFlower.ttf') format('ttf');
+  font-weight: 600;
+  font-style: normal;
+} */
+
+.hello {
+  color: skyblue;
+  /* font-family: 'MyFont'; */
+  background: url('./image/btn_kai.png') no-repeat center;
+}
