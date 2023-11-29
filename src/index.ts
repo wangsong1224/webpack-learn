@@ -31,5 +31,7 @@ enum Color {
   Green,
   Blue
 }
+
+
 let c: Color = Color.Green;
 console.log(c);
